@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+praw>=7.7.1
+openai>=1.30.0
+pandas>=2.2.0
+openpyxl>=3.1.2
+pydantic>=2.7.0
+python-dotenv>=1.0.1
